@@ -1,0 +1,33 @@
+.file-upload {
+    text-align: center;
+}
+
+#file-input {
+    display: none;
+}
+
+.drop-area {
+    border: 2px dashed #007bff;
+    padding: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+}
+
+.drop-area:hover {
+    background-color: #e9ecef;
+}
+
+#file-list {
+    margin-top: 20px;
+}
+
+.file-item {
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #333;
+}
+
+.btn-transparent:hover {
+    color: #0056b3; /* Warna saat hover */
+}
